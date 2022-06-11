@@ -1,1 +1,10 @@
-[ 2022-05-31 18:56:51,222 ] Salida de usuario
+2022-06-11 11:02:15,776, opcion1,  26, LoggerJsonLoader
+2022-06-11 11:02:42,944, opcion2,  None, LoggerJsonLoader
+2022-06-11 11:02:54,200, opcion1,  26, LoggerJsonLoader
+2022-06-11 11:03:02,444, opcion1,  26, LoggerJsonLoader
+2022-06-11 11:03:05,700, opcion2,  None, LoggerJsonLoader
+2022-06-11 11:06:55,359, opcion2,  None, LoggerJsonLoader
+2022-06-11 11:07:07,860, opcion1,  21, LoggerJsonLoader
+2022-06-11 11:07:09,943, opcion2,  None, LoggerJsonLoader
+2022-06-11 11:09:45,924, opcion2,  None, LoggerJsonLoader
+2022-06-11 11:09:50,152, opcion2,  None, LoggerJsonLoader
